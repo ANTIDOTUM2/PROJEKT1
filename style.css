@@ -32,15 +32,27 @@ h1{
     text-align: center;
     font-family:'Times New Roman', Times, serif;
 }
-
+h2{
+    margin: -150px 50px 1px 20px;
+    font-family:'Times New Roman', Times, serif;
 }
 
 section.elementy{
-    padding: 40px;
-    border: 50px solid rgb(0, 0, 0);    
-    margin: 20px 5px 2px 5px;
+    padding: 15px;
+    border: 15px solid rgb(0, 0, 0);    
+    margin: 2px 5px 2px 5px;
+    font-size: 22px;
+}
+span{
+    font-size: 30px;
+    color:rgb(141, 30, 52);
+
 }
 
+a{
+    color:black;
+    text-decoration: none;
+}
 .flexbox{
     display: flex;
     list-style: none;
