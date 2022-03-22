@@ -1,7 +1,7 @@
 body{
     margin: 0;
     padding: 0;
-    background-color: #b6aeae;
+    background-color: #ffffff;
 }
 
 section.start{
@@ -9,7 +9,7 @@ section.start{
     justify-content: space-around;
 }   
 
-img{
+.logo{
     width: 250px;
     height: 230px;
     margin: 100px 35px 35px 35px;
@@ -17,7 +17,6 @@ img{
 
 
 }
-img
 
 
 
@@ -49,7 +48,24 @@ span{
     color:rgb(141, 30, 52);
 
 }
+.zdj1{
+    width: 900px;
+    height: 600px;
+    margin: 100px 35px 35px 35px;
+}
+.zdj2{
+    width: 400px;
+    height: 600px;
+    margin: 100px 35px 35px 35px;
+}
+.wozek{
+    width: 100px;
+    height: 100px;
+    position: fixed;
+    top: 30px;
+    right: 30px;
 
+}
 a{
     color:black;
     text-decoration: none;
