@@ -58,6 +58,11 @@ span{
     height: 600px;
     margin: 100px 35px 35px 35px;
 }
+.zdj3{
+    width: 500px;
+    height: 334px;
+    margin: 0px 0px 0px 910px;
+}
 .wozek{
     width: 100px;
     height: 100px;
@@ -75,4 +80,13 @@ a{
     list-style: none;
     justify-content: space-evenly;
     color:rgb(0, 0, 0)
+}
+.ajax{
+    margin: 0px 0px 40px 40px;
+    font-size: 40px;
+}
+
+
+
+
 }
